@@ -1,4 +1,4 @@
-FROM node:17
+FROM node:19
 WORKDIR /usr/app
 
 RUN apt update && \
